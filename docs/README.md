@@ -1,4 +1,5 @@
 
+> This repository is forked from someone755/ddr3-controller
 
 # ddr3-controller
 A DDR3(L) PHY and controller, written in Verilog, for Xilinx 7-Series FPGAs.
